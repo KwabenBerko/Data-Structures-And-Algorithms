@@ -11,8 +11,6 @@ public class Runner {
 
     private static void selectionSort(int[] array){
 
-        //5 | 9, 7, 8
-
         for(int i = 0; i < array.length; i++){
             int minIndex = i;
             for(int j = i + 1; j < array.length; j++){
