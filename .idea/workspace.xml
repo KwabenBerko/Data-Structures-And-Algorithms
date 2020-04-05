@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d95a518-931c-4d86-9579-22fc9dd6de0f" name="Default Changelist" comment="" />
+    <list default="true" id="5d95a518-931c-4d86-9579-22fc9dd6de0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/quicksort/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RunManager" selected="Application.Runner (2)">
+  <component name="RunManager" selected="Application.Runner (4)">
     <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bubblesort.Runner" />
       <module name="Data_Structures_And_Algorithms.main" />
@@ -139,38 +149,38 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="709" y="283" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1585686240920" />
-    <state width="1750" height="317" key="GridCell.Tab.0.bottom" timestamp="1586088568452">
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom" timestamp="1586091552285">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586088568452" />
-    <state width="1750" height="317" key="GridCell.Tab.0.center" timestamp="1586088568451">
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586091552285" />
+    <state width="1750" height="277" key="GridCell.Tab.0.center" timestamp="1586091552284">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586088568451" />
-    <state width="1750" height="317" key="GridCell.Tab.0.left" timestamp="1586088568450">
+    <state width="1750" height="277" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586091552284" />
+    <state width="1750" height="277" key="GridCell.Tab.0.left" timestamp="1586091552283">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586088568450" />
-    <state width="1750" height="317" key="GridCell.Tab.0.right" timestamp="1586088568452">
+    <state width="1750" height="277" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586091552283" />
+    <state width="1750" height="277" key="GridCell.Tab.0.right" timestamp="1586091552284">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586088568452" />
-    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1585970495109">
+    <state width="1750" height="277" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586091552284" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1586090870161">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1585970495109" />
-    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1585970495108">
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586090870161" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1586090870160">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1585970495108" />
-    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1585970495108">
+    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586090870160" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1586090870159">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1585970495108" />
-    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1585970495109">
+    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586090870159" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1586090870160">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1585970495109" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586090870160" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1585693563624">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -183,5 +193,16 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1585685599818" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/quicksort/Runner.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
