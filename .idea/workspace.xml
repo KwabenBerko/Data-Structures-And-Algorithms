@@ -34,8 +34,8 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RunManager" selected="Application.Runner (4)">
-    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bubblesort.Runner" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bubblesort.BubbleSort" />
       <module name="Data_Structures_And_Algorithms.main" />
       <extension name="coverage">
         <pattern>
@@ -104,7 +104,7 @@
         <item itemvalue="Application.Runner (4)" />
         <item itemvalue="Application.Runner (3)" />
         <item itemvalue="Application.Runner (2)" />
-        <item itemvalue="Application.Runner (1)" />
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
