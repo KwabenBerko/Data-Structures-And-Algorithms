@@ -5,18 +5,16 @@ import java.util.Arrays;
 public class DynamicArray<T> {
 
     private T[] array;
-    private int length = 0;
     private int size = 0;
 
-    public DynamicArray(int length){
-        this.length = length;
-        array = (T[]) new Object[length];
+    public DynamicArray(int initialLength){
+        array = (T[]) new Object[initialLength];
     }
 
     public void add(T data){
 
         if(array.length == size){
-            T[] newArray = (T[]) new Object[length * 2];
+            T[] newArray = (T[]) new Object[array.length * 2];
             for(int i = 0; i < array.length; i++){
                 newArray[i] = array[i];
             }
