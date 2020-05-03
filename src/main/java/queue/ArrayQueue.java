@@ -13,7 +13,7 @@ public class ArrayQueue {
 
 
     public boolean isEmpty(){
-        return frontIndex == -1 || (frontIndex > rearIndex);
+        return frontIndex == -1 || frontIndex > rearIndex;
     }
 
     public int front(){
@@ -37,8 +37,6 @@ public class ArrayQueue {
             array = temp;
         }
 
-
-
         if(isEmpty()){
             frontIndex++;
         }
@@ -51,7 +49,7 @@ public class ArrayQueue {
             throw new IllegalArgumentException();
         }
 
-        return array[frontIndex++];
+        return array[++frontIndex];
     }
 
 }

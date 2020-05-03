@@ -1,5 +1,7 @@
 package stack;
 
+import java.util.ArrayDeque;
+
 public class LinkedListStack implements Stack {
 
     private Node head;
